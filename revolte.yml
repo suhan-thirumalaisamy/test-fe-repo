@@ -1,7 +1,7 @@
 revolte:
   version: '1.0'
-  project: Revolte Beta Test
-  appName: Javascript Test
+  project: web-service-port
+  appName: test-version
   config:
     codeReview:
       summarize: true
